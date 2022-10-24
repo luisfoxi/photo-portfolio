@@ -1992,7 +1992,7 @@ input, select, textarea {
 		}
 
 			.main.style2 > .content {
-				-moz-transition: -moz-transform 1s ease;
+				-moz-transition: -moz-transform 600ms ease;
 				-webkit-transition: -webkit-transform 1s ease;
 				-ms-transition: -ms-transform 1s ease;
 				transition: transform 1s ease;
